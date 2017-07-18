@@ -284,6 +284,9 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            ".btn": {
+              "font-size": "12px"
             }
           },
           "_name": "slider1",
@@ -319,14 +322,14 @@
                 "active": true,
                 "showButtons": true,
                 "showText": false,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "<br><br><br>Destaque",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "a",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-preview mbr-iconfont mbr-iconfont-btn\"></span>+ info</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/johannesburg-1-2000x1206.png",

@@ -885,6 +885,9 @@ pre {
 .cid-qpLvAQyzEJ .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qpLvAQyzEJ .btn {
+  font-size: 12px;
+}
 .cid-qpLuzHAG9g {
   padding-top: 105px;
   padding-bottom: 60px;
