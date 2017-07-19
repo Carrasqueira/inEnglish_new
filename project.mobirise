@@ -311,7 +311,9 @@
               "z-index": "auto"
             },
             ".btn": {
-              "font-size": "16px"
+              "font-size": "15px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_name": "slider1",
@@ -346,7 +348,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/boarding-pass-frame-1920x1200.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -356,7 +358,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<a href=\"destaques.html\"><br></a><br><br><br><br><br><br><br><br><br><br><br><br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+ info</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"destaques.html\" data-toolbar=\"-mbrBtnMove\">+ info</a> ",
                 "overlayOpacity": "0"
               },
               {
@@ -391,7 +393,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/toronto-pbs-2000x1207.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
