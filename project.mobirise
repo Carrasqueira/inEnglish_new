@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "inEnglish_Site_Theme4",
-    "currentPage": "index.html",
+    "currentPage": "promo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -368,7 +368,7 @@
                 "title": "<br><br><br><br><br><br><br><br><br><br><br>Contacte-nos . . .",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<p><a href=\"destaques.html\"><br></a><br> \n<a href=\"noticias.html\"><img src=\"https://carrasqueira.github.io/inEnglish_new/assets/images/promo.png\" class=\"img-responsive\" style=\"display: block; float: none; width: 100%; padding: 5px;\"></a></p>",
+                "text": "<p><a href=\"destaques.html\"><br></a><br> \n<a href=\"noticias.html\"><img src=\"https://carrasqueira.github.io/inEnglish_new/assets/images/promo.png\" class=\"img-responsive img-thumbnail\" style=\"display: block; float: none; width: 100%; padding: 5px; opacity: 1;\"></a></p>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"destaques.html\" data-toolbar=\"-mbrBtnMove\">+ info</a> ",
                 "overlayOpacity": "0"
               },
@@ -395,7 +395,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NewYork",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br>NewYork",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "inUSA",
@@ -410,7 +410,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br>Toronto",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Toronto",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "inCanada",
@@ -8955,7 +8955,7 @@
             }
           },
           "_name": "image1",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"7\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Image Size\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#7f1933\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/boarding-pass-960x408.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>\n",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"7\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Image Size\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#7f1933\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/promo-512x218.png\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "qsv5hLUhAv",
           "_anchor": "image1-3b",
           "_protectedParams": [],
