@@ -106,7 +106,7 @@
                     backgroundPosition: 'center'
                 });
 
-                $('.mbr-overlay, .container-slide', this).before($preview);
+                $('.container-slide', this).before($preview);
                 var playerName = checkPlayerName($(this).attr('data-bg-video-slide'));
                 var $overlay = $(this).find('.mbr-overlay');
 
@@ -131,6 +131,9 @@
                                 backgroundColor: $overlay.css('background-color')
                             });
                         }
+
+                        $(this).find('.image_wrapper img').css('opacity', '0');
+                        $(this).find('.image_wrapper .mbr-overlay').css('opacity', '0');
                     }
                 } else {
                     getVimeoPreviewUrl(videoId, function(url) {
