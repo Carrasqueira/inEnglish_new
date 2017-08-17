@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "inEnglish_Site_Theme4",
-    "currentPage": "noticias.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -371,7 +371,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<p><a href=\"destaques.html\"><br></a><br> \n<a href=\"noticias.html\"><img src=\"https://carrasqueira.github.io/inEnglish_new/assets/images/promo.png\" class=\"img-responsive img-thumbnail\" style=\"display: block; float: none; width: 100%; padding: 5px; opacity: 1;\"></a></p>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"notici.html\" data-toolbar=\"-mbrBtnMove\">+ info</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"noticias.html\" data-toolbar=\"-mbrBtnMove\">+ info</a> ",
                 "overlayOpacity": "0"
               },
               {
