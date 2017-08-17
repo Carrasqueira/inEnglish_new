@@ -105,13 +105,6 @@ body {
   justify-content: center;
   word-break: break-word;
 }
-.navbar .btn {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
-}
-.navbar .btn > .mbr-iconfont {
-  font-size: 1.6rem;
-}
 .btn-sm {
   font-weight: 500;
   letter-spacing: 1px;
@@ -978,12 +971,12 @@ pre {
   font-family: 'Oxygen', sans-serif;
 }
 .cid-qpFqHWdscW .navbar {
-  background: #000000;
+  background: #515151;
   transition: none;
   min-height: 77px;
 }
 .cid-qpFqHWdscW .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #515151;
 }
 .cid-qpFqHWdscW a {
   font-style: normal;
@@ -1063,7 +1056,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qpFqHWdscW .dropdown .dropdown-menu {
-  background: #000000;
+  background: #515151;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1460,12 +1453,12 @@ pre {
   color: #232323;
 }
 .cid-qpMhaiIAe8 .navbar {
-  background: #000000;
+  background: #515151;
   transition: none;
   min-height: 77px;
 }
 .cid-qpMhaiIAe8 .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #515151;
 }
 .cid-qpMhaiIAe8 a {
   font-style: normal;
@@ -1545,7 +1538,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qpMhaiIAe8 .dropdown .dropdown-menu {
-  background: #000000;
+  background: #515151;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1886,12 +1879,12 @@ pre {
   font-size: 16px;
 }
 .cid-qpMhgI9l83 .navbar {
-  background: #000000;
+  background: #515151;
   transition: none;
   min-height: 77px;
 }
 .cid-qpMhgI9l83 .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #515151;
 }
 .cid-qpMhgI9l83 a {
   font-style: normal;
@@ -1971,7 +1964,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qpMhgI9l83 .dropdown .dropdown-menu {
-  background: #000000;
+  background: #515151;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3242,12 +3235,12 @@ pre {
   color: #232323;
 }
 .cid-qpMh765oLY .navbar {
-  background: #000000;
+  background: #515151;
   transition: none;
   min-height: 77px;
 }
 .cid-qpMh765oLY .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #515151;
 }
 .cid-qpMh765oLY a {
   font-style: normal;
@@ -3327,7 +3320,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qpMh765oLY .dropdown .dropdown-menu {
-  background: #000000;
+  background: #515151;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -4622,12 +4615,12 @@ pre {
   background: #1b1b1b;
 }
 .cid-qpMhe7okDE .navbar {
-  background: #000000;
+  background: #515151;
   transition: none;
   min-height: 77px;
 }
 .cid-qpMhe7okDE .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #515151;
 }
 .cid-qpMhe7okDE a {
   font-style: normal;
@@ -4707,7 +4700,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qpMhe7okDE .dropdown .dropdown-menu {
-  background: #000000;
+  background: #515151;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -5002,12 +4995,12 @@ pre {
 
 
 .cid-qpFqHWdscW .navbar {
-  background: #000000;
+  background: #515151;
   transition: none;
   min-height: 77px;
 }
 .cid-qpFqHWdscW .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #515151;
 }
 .cid-qpFqHWdscW a {
   font-style: normal;
@@ -5087,7 +5080,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qpFqHWdscW .dropdown .dropdown-menu {
-  background: #000000;
+  background: #515151;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -5939,12 +5932,12 @@ pre {
 
 
 .cid-qpFq53Z5av .navbar {
-  background: #000000;
+  background: #515151;
   transition: none;
   min-height: 77px;
 }
 .cid-qpFq53Z5av .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #515151;
 }
 .cid-qpFq53Z5av a {
   font-style: normal;
@@ -6024,7 +6017,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qpFq53Z5av .dropdown .dropdown-menu {
-  background: #000000;
+  background: #515151;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -6419,12 +6412,12 @@ pre {
   font-size: 16px;
 }
 .cid-qpMBBsgGFs .navbar {
-  background: #000000;
+  background: #515151;
   transition: none;
   min-height: 77px;
 }
 .cid-qpMBBsgGFs .navbar-dropdown.bg-color.transparent.opened {
-  background: #000000;
+  background: #515151;
 }
 .cid-qpMBBsgGFs a {
   font-style: normal;
@@ -6504,7 +6497,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qpMBBsgGFs .dropdown .dropdown-menu {
-  background: #000000;
+  background: #515151;
   display: none;
   position: absolute;
   min-width: 5rem;
