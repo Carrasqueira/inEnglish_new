@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "inEnglish_Site_Theme4",
-    "currentPage": "promo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     "uniqCompNum": 121,
     "versionPublish": "4.1.4",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "html_before": "",
     "headbody": "",
     "botbody": "",
