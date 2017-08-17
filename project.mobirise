@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "inEnglish_Site_Theme4",
-    "currentPage": "promo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -349,7 +349,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/london-1-2000x1333.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -364,7 +364,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fundo-promo-1920x1200.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
