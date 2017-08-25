@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "inEnglish_Site_Theme4",
-    "currentPage": "empresa.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -353,14 +353,14 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/london-pb-s.jpg",
+                "image": "@PROJECT_PATH@/assets/images/london-pb.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "<p><br></p><br><br><br><br><br><br><br><br><br><br><br><br><p>London</p>",
+                "title": "<p><br></p><br><br><br><br><br><br><br><br><br><br><br><p>London</p>",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "inEngland",
@@ -368,8 +368,8 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/fundo.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/fundo-pb.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
@@ -383,14 +383,14 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/johannesburg-pb-s.jpg",
+                "image": "@PROJECT_PATH@/assets/images/johannesburg-pb.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Johannesburg",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br>Johannesburg",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "inSouthAfrica",
@@ -398,14 +398,14 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/new-york-pb-s.jpg",
+                "image": "@PROJECT_PATH@/assets/images/new-york-pb.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br>NewYork",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br>NewYork",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "inUSA",
@@ -413,14 +413,14 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/toronto-pb-s.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/toronto-pb.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Toronto",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br>Toronto",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "inCanada",
@@ -4995,7 +4995,7 @@
                 "image": "@PROJECT_PATH@/assets/images/inenglish-exterior.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/inenglish-exterior-800x450.jpg",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -5028,7 +5028,7 @@
                 "image": "@PROJECT_PATH@/assets/images/inenglish-sala.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/inenglish-sala-800x450.jpg",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]
