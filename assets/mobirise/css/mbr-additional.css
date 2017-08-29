@@ -3409,6 +3409,10 @@ body {
   padding-bottom: 15px;
   background-color: #2e2e2e;
 }
+.cid-qswbjfdUHu .media-container-row .mbr-text {
+  color: #232323;
+  text-align: left;
+}
 .cid-qtDlovKmiF .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -4700,7 +4704,7 @@ body {
 .cid-qpGnbhcVcN {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f2b989;
+  background-color: #caae96;
 }
 .cid-qpGnbhcVcN .testimonial-text {
   font-style: italic;
@@ -4740,7 +4744,7 @@ body {
 .cid-qpGqScIIZ5 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f2b989;
+  background-color: #caae96;
 }
 .cid-qpGqScIIZ5 .testimonial-text {
   font-style: italic;
@@ -4778,7 +4782,7 @@ body {
 .cid-qtxak0gJ78 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #f2b989;
+  background-color: #caae96;
 }
 .cid-qtxak0gJ78 .testimonial-text {
   font-style: italic;
@@ -4798,7 +4802,7 @@ body {
 .cid-qtxaYHtJ7C {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #918a6f;
+  background-color: #767676;
 }
 .cid-qtxaYHtJ7C .testimonial-text {
   font-style: italic;
@@ -4812,10 +4816,19 @@ body {
 .cid-qtxaYHtJ7C .mbr-author-desc {
   color: #232323;
 }
+.cid-qtHYaLRrix {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #caae96;
+}
+.cid-qtHYaLRrix .media-container-row .mbr-text {
+  color: #232323;
+  text-align: left;
+}
 .cid-qpGkM4wQFu {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #f2b989;
+  background-color: #caae96;
 }
 .cid-qpGkM4wQFu .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -5346,7 +5359,11 @@ body {
 .cid-qs753VJRlY {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #2e2e2e;
+  background-color: #ffd8b7;
+}
+.cid-qs753VJRlY .media-container-row .mbr-text {
+  color: #232323;
+  text-align: left;
 }
 .cid-qtE5mMqF5x .navbar {
   background: #232323;
@@ -8862,7 +8879,11 @@ body {
 .cid-qswbjfdUHu {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #2e2e2e;
+  background-color: #ffd8b7;
+}
+.cid-qswbjfdUHu .media-container-row .mbr-text {
+  color: #232323;
+  text-align: left;
 }
 .cid-qtCOMVmP4a .navbar {
   padding: .5rem 0;
